@@ -20,5 +20,4 @@ This project is a multi‑page HTML and CSS website created as part of an early 
 - HTML5
 - CSS3
 
-## How to View
-Open `index.html` in any web browser to view the homepage. Use the navigation links to explore the other pages.
+
